@@ -1,22 +1,14 @@
 # Olá! 👋
 
-Sou Guilherme Braun, estudante de Ciência da Computação e interessado em desenvolvimento de software.
+Sou Guilherme Braun, estudante de Ciência da Computação e interessado em desenvolvimento de software, inteligência artificial e tecnologia.
 
-Atualmente estou aprimorando meus conhecimentos através da faculdade, projetos pessoais e experiências práticas.
-
----
-
-## 🔗 Onde me encontrar
-
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK_LINKEDIN)
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](SEU_LINK_INSTAGRAM)
+Atualmente estou focado em aprimorar meus conhecimentos através da faculdade, projetos pessoais e experiências práticas.
 
 ---
 
 ## 💻 Tecnologias
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
@@ -26,34 +18,32 @@ Atualmente estou aprimorando meus conhecimentos através da faculdade, projetos 
 
 ---
 
-## 📂 Alguns projetos
+## 🚀 Alguns projetos
 
-🎮 **Dantes-Inferno-Game**  
-Jogo 2D desenvolvido com Godot e GDScript.
-
-📱 **Pokedex-Flutter**  
-Aplicação mobile desenvolvida com Flutter, consumindo dados de uma API pública.
-
-🤖 **Credit-Score-Prediction**  
-Projeto de Machine Learning desenvolvido com Python e scikit-learn.
-
-💬 **HashZap-Chat**  
-Aplicação de chat em tempo real desenvolvida com Python e Flet.
-
-🎬 **Cinema-Management-System**  
-Sistema desktop desenvolvido em Java Swing para gerenciamento de salas e reservas de assentos.
-
-🌐 **Web-Form-Automation**  
-Automação de preenchimento de formulários utilizando Python e dados provenientes de CSV.
+- 🎮 **Dantes-Inferno-Game** — Jogo 2D desenvolvido com Godot e GDScript.
+- 📱 **Pokedex-Flutter** — Aplicação mobile desenvolvida com Flutter e uma API pública.
+- 🤖 **Credit-Score-Prediction** — Projeto de Machine Learning desenvolvido com Python e scikit-learn.
+- 💬 **HashZap-Chat** — Aplicação de chat em tempo real desenvolvida com Python e Flet.
+- 🎬 **Cinema-Management-System** — Sistema desktop desenvolvido em Java Swing para gerenciamento de salas e reservas de assentos.
+- 🌐 **Web-Form-Automation** — Automação de preenchimento de formulários utilizando Python e dados provenientes de CSV.
 
 ---
 
 ## 📚 Atualmente
 
-Estudante de Ciência da Computação, buscando evoluir constantemente em desenvolvimento de software, principalmente nas áreas de **Java, Spring Boot, Python e bancos de dados**.
+Estudante de Ciência da Computação, com interesse em:
+
+- Desenvolvimento de software
+- Backend com Java e Spring Boot
+- Python
+- Bancos de dados e SQL
+- Inteligência Artificial e Machine Learning
+
+Buscando evoluir constantemente através de novos projetos e experiências práticas.
 
 ---
 
 ## 📫 Contato
 
-[![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gapbraun/)
+[![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilhermeapbraun@gmail.com)
