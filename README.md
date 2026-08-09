@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**guilhermebraun/guilhermebraun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Guilherme Braun, a Computer Science student interested in software development.
 
-Here are some ideas to get you started:
+I use GitHub to document some of the projects I've developed while studying and learning new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Technologies
+
+- Java
+- Spring Boot
+- Python
+- SQL
+- Flutter / Dart
+- JavaScript
+- Git & GitHub
+
+## 🚀 Projects
+
+- 🎮 **Dantes-Inferno-Game** — 2D top-down action game developed with Godot and GDScript.
+- 📱 **Pokedex-Flutter** — Mobile Pokédex application developed with Flutter and a public API.
+- 🤖 **Credit-Score-Prediction** — Machine learning project using Python and scikit-learn.
+- 🌐 **Web-Form-Automation** — Python project for automating web form submissions using CSV data.
+- 💬 **HashZap-Chat** — Real-time chat application developed with Python and Flet.
+- 🎬 **Cinema-Management-System** — Java Swing application for cinema room management and seat reservations.
+
+## 📚 Learning
+
+Currently studying Computer Science and continuously improving my skills through academic and personal projects.
