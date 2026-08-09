@@ -2,7 +2,7 @@
 
 Sou Guilherme Braun, estudante de Ciência da Computação e interessado em desenvolvimento de software.
 
-Atualmente estou focado em aprimorar meus conhecimentos através da faculdade, projetos pessoais e experiências práticas.
+Atualmente estou aprimorando meus conhecimentos através da faculdade, projetos pessoais e experiências práticas.
 
 ---
 
