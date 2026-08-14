@@ -34,7 +34,7 @@ Atualmente estou aprimorando meus conhecimentos através da faculdade, projetos 
 Estudante de Ciência da Computação, com interesse em:
 
 - Desenvolvimento de software
-- Backend com Java e Spring Boot
+- Desenvolvimento backend com Java
 - Python
 - Bancos de dados e SQL
 - Inteligência Artificial e Machine Learning
