@@ -20,7 +20,7 @@ Atualmente estou aprimorando meus conhecimentos através da faculdade, projetos 
 
 ## 🚀 Alguns projetos
 
-- 🎮 **Dantes-Inferno-Game** — Jogo 2D desenvolvido com Godot e GDScript.
+- 🎮 **Dantes-Game** — Jogo 2D desenvolvido com Godot e GDScript.
 - 📱 **Pokedex-Flutter** — Aplicação mobile desenvolvida com Flutter e uma API pública.
 - 🤖 **Credit-Score-Prediction** — Projeto de Machine Learning desenvolvido com Python e scikit-learn.
 - 💬 **HashZap-Chat** — Aplicação de chat em tempo real desenvolvida com Python e Flet.
