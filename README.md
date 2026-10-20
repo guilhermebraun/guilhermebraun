@@ -1,6 +1,6 @@
 # Olá! 👋
 
-Sou Guilherme Braun, estudante de Ciência da Computação e interessado em desenvolvimento de software, inteligência artificial e tecnologia.
+Sou Guilherme Braun, estudante de Ciência da Computação e interessado em desenvolvimento de software, inteligência artificial, machine learning e tecnologia.
 
 Atualmente estou aprimorando meus conhecimentos através da faculdade, projetos pessoais e experiências práticas.
 
